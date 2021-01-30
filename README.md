@@ -1,4 +1,4 @@
-# bmi-calculator
+# BMI Calculator
 
 BMI Calculator is a simple tool that uses, express and body parser to help calubrate your BMI. It takes a input, height and weight, and this will give you your results.
 
